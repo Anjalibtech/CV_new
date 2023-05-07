@@ -7,7 +7,7 @@
 <body>
 <div id="header">
 <p id="name"><h2>Anjali Gupta</h2></p>
-<h4><a href="mailto:anjaligupta2810cd@gmail.com"><p id="email">E-Mail:anjaligupta2810cd@gmail.com</p></a></h4>h4>
+<h4><a href="mailto:anjaligupta2810cd@gmail.com"><p id="email">E-Mail:anjaligupta2810cd@gmail.com</p></a></h4>
      </div>
      <div class="left">
      </div>
@@ -20,7 +20,7 @@
                 <li>Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.</li></ul>
             </p>
             <h3>Educational Qualifications</h3>
-            <table border=2>
+            <table border=2 width="auto">
                 <tr id="heading">
                     <td>Qualification</td>
                     <td>University</td>
