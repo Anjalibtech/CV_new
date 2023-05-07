@@ -2,7 +2,7 @@
 <html>
  <head>
  
-<title></title> 
+<title>Anjali Gupta</title> 
 </head>
 <body>
 <div id="header">
@@ -51,21 +51,21 @@
             <p>
             <ul>
                 <li>
-                <span id="course-name">HTML & CSS for Beginners – Web Fundamentals</span> </li>
+                <span id="course-name">Basics of HTML</span> </li>
                 <li>
-                <span id="course-name">Python – Fundamentals and Data Structure </span> </li>
+                <span id="course-name">Basics of CSS</span> </li>
                 <li>
-                <span id="course-name">JavaScript – Programming Basics, JS Apps and Build Games </span> </li>
+                <span id="course-name">Basics of Python</span> </li>
                 <li>
-                
+                <span id="course-name">Foundations: Data, Data, Everywhere</span> </li>
             </ul>
             <h3>Technical Skills</h3>
             <p>
             <ul>
                 <li>
-                <span id="course-name">Operating Systems:</span> DOS,  Windows 8, Windows 10</li>
+                <span id="course-name">Operating Systems:</span>Windows 8, Windows 10 and Windows 11</li>
                 <li>
-                <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, learning C and C++</li></ul>
+                <span id="course-name">Programming Skills:</span>HTML, CSS, Python,C and learning Java</li></ul>
             </p>
             <h3>Certifications / Awards:</h3>
             <p>
