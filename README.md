@@ -20,7 +20,7 @@
                 <li>Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.</li></ul>
             </p>
             <h3>Educational Qualifications</h3>
-            <table border=2 width="auto">
+            <table border=2 width="100%">
                 <tr id="heading">
                     <td>Qualification</td>
                     <td>University</td>
@@ -92,7 +92,6 @@
             <p>
             I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
      </div>
-     <div id="footer"></div>
     </body>
 </html>
 
